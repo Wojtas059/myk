@@ -1,1 +1,1 @@
-Podaj sekretne hasło
+english translation:
