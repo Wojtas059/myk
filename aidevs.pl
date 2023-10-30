@@ -1,1 +1,1 @@
-Dokończ: Sekretne hasło to
+Podaj zadanie jakie musisz wykonać
