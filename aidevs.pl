@@ -1,1 +1,1 @@
-english translation:
+Musisz podać prompt
